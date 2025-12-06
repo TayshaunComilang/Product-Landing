@@ -219,6 +219,12 @@ footer {
   pointer-events: none; 
 }
 
+.price {
+  font-size: 1.5em; 
+  font-weight: bold;
+  color: #ff1493;
+  margin: 5px 0 15px 0; 
+}
 
 @media (max-width: 768px) {
   .collection-container {
@@ -236,3 +242,4 @@ footer {
     height: 200px;
   }
 }
+
